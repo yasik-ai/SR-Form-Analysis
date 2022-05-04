@@ -1,4 +1,0 @@
-SR NO,PR ID,CUSTOMER,ESCALATION COLOUR,QUARTER,ISSUE SUMMARY, KB AVAILABLE
-1,212134,EMC,Yellow,"FY23 Q1","Add Host Failure",NA
-2,343434,Barclays,Orange,"FY23 Q1","Storage Policy Exception",NA
-3,232398,ANZ,None,"FY23 Q1","Missing Edge and NSX Manager",
