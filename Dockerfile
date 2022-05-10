@@ -6,3 +6,4 @@ COPY . /var/www/html
 
 # Open up port 80 in the container
 EXPOSE 80
+
